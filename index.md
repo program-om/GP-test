@@ -10,6 +10,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 [second page](./test.md)
 
+Nice Book
+<img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544963815l/34890015._SY475_.jpg"/>
+
 ```markdown
 Syntax highlighted code block
 ```
